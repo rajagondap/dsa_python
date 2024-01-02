@@ -1,3 +1,3 @@
-Hi there
+### DSA in Python for Developer, ML Engineers and Automation engineers
 
-This is the repo for git
+I this Git repo. I will be adding some of the code for dsa understanding and different algorithms
